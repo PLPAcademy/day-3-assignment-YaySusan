@@ -13,7 +13,7 @@ B) Download the Dart SDK
 2. Which command verifies the Dart installation on macOS?
 
 D) dart --version
-f
+
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
 B) Update your PATH
